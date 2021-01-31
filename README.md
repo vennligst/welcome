@@ -9,4 +9,4 @@ This is just a beginning website for future work to come
 * My record time for solving a Rubik's cube is 14.98 seconds
 * My favorite season is spring
 
-### Here is a photo:
+### Here is a photo I took:
