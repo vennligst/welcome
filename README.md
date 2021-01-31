@@ -10,3 +10,4 @@ This is just a beginning website for future work to come
 * My favorite season is spring
 
 ### Here is a photo I took:
+![](342835_0014.jpg)
